@@ -794,7 +794,7 @@ img[alt] {
 }
 
 .contact__item--vk {
-  margin-left: 42px;
+  margin-left: 30px;
 }
 
 .contact__link {
@@ -1206,6 +1206,10 @@ img[alt] {
   .contact {
     margin: 0;
     width: auto;
+  }
+
+  .contact__item--vk {
+    margin-left: 42px;
   }
 
   .contact__img {
